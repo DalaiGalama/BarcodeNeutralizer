@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BarcodeNeutralizer</string>
+    <string name="cam_fail">Camera is not available</string>
+    <string name="preview_fail">Unable to set display window</string>
+</resources>
